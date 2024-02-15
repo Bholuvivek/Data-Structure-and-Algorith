@@ -24,6 +24,7 @@ public class Main {
         arry[5] = 6;
         for (int i = 0; i < arry.length; i++) {
             System.out.print(arry[i]+", ");
+            // The array will print
         }
     }
 }
